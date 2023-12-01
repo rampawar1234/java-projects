@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is the master file
+This is the file in feature branch
+>>>>>>> feature
